@@ -1,0 +1,513 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BlazorFocused.Reactive.Redux
+  name: BlazorFocused.Reactive.Redux
+  href: api/BlazorFocused.Reactive.Redux.html
+  commentId: N:BlazorFocused.Reactive.Redux
+  fullName: BlazorFocused.Reactive.Redux
+  nameWithType: BlazorFocused.Reactive.Redux
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`1
+  name: IActionAsync<TState>
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.IActionAsync`1
+  name.vb: IActionAsync(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState)
+  nameWithType: IActionAsync<TState>
+  nameWithType.vb: IActionAsync(Of TState)
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`1.ExecuteAsync
+  name: ExecuteAsync()
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-1.html#BlazorFocused_Reactive_Redux_IActionAsync_1_ExecuteAsync
+  commentId: M:BlazorFocused.Reactive.Redux.IActionAsync`1.ExecuteAsync
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState>.ExecuteAsync()
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState).ExecuteAsync()
+  nameWithType: IActionAsync<TState>.ExecuteAsync()
+  nameWithType.vb: IActionAsync(Of TState).ExecuteAsync()
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`1.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-1.html#BlazorFocused_Reactive_Redux_IActionAsync_1_ExecuteAsync_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IActionAsync`1.ExecuteAsync
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState>.ExecuteAsync
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState).ExecuteAsync
+  nameWithType: IActionAsync<TState>.ExecuteAsync
+  nameWithType.vb: IActionAsync(Of TState).ExecuteAsync
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`2
+  name: IActionAsync<TState, TInput>
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-2.html
+  commentId: T:BlazorFocused.Reactive.Redux.IActionAsync`2
+  name.vb: IActionAsync(Of TState, TInput)
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState, TInput>
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState, TInput)
+  nameWithType: IActionAsync<TState, TInput>
+  nameWithType.vb: IActionAsync(Of TState, TInput)
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`2.ExecuteAsync(`1)
+  name: ExecuteAsync(TInput)
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-2.html#BlazorFocused_Reactive_Redux_IActionAsync_2_ExecuteAsync__1_
+  commentId: M:BlazorFocused.Reactive.Redux.IActionAsync`2.ExecuteAsync(`1)
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState, TInput>.ExecuteAsync(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState, TInput).ExecuteAsync(TInput)
+  nameWithType: IActionAsync<TState, TInput>.ExecuteAsync(TInput)
+  nameWithType.vb: IActionAsync(Of TState, TInput).ExecuteAsync(TInput)
+- uid: BlazorFocused.Reactive.Redux.IActionAsync`2.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlazorFocused.Reactive.Redux.IActionAsync-2.html#BlazorFocused_Reactive_Redux_IActionAsync_2_ExecuteAsync_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IActionAsync`2.ExecuteAsync
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IActionAsync<TState, TInput>.ExecuteAsync
+  fullName.vb: BlazorFocused.Reactive.Redux.IActionAsync(Of TState, TInput).ExecuteAsync
+  nameWithType: IActionAsync<TState, TInput>.ExecuteAsync
+  nameWithType.vb: IActionAsync(Of TState, TInput).ExecuteAsync
+- uid: BlazorFocused.Reactive.Redux.IAction`1
+  name: IAction<TState>
+  href: api/BlazorFocused.Reactive.Redux.IAction-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.IAction`1
+  name.vb: IAction(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState)
+  nameWithType: IAction<TState>
+  nameWithType.vb: IAction(Of TState)
+- uid: BlazorFocused.Reactive.Redux.IAction`1.Execute
+  name: Execute()
+  href: api/BlazorFocused.Reactive.Redux.IAction-1.html#BlazorFocused_Reactive_Redux_IAction_1_Execute
+  commentId: M:BlazorFocused.Reactive.Redux.IAction`1.Execute
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState>.Execute()
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState).Execute()
+  nameWithType: IAction<TState>.Execute()
+  nameWithType.vb: IAction(Of TState).Execute()
+- uid: BlazorFocused.Reactive.Redux.IAction`1.Execute*
+  name: Execute
+  href: api/BlazorFocused.Reactive.Redux.IAction-1.html#BlazorFocused_Reactive_Redux_IAction_1_Execute_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IAction`1.Execute
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState>.Execute
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState).Execute
+  nameWithType: IAction<TState>.Execute
+  nameWithType.vb: IAction(Of TState).Execute
+- uid: BlazorFocused.Reactive.Redux.IAction`2
+  name: IAction<TState, TInput>
+  href: api/BlazorFocused.Reactive.Redux.IAction-2.html
+  commentId: T:BlazorFocused.Reactive.Redux.IAction`2
+  name.vb: IAction(Of TState, TInput)
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState, TInput>
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState, TInput)
+  nameWithType: IAction<TState, TInput>
+  nameWithType.vb: IAction(Of TState, TInput)
+- uid: BlazorFocused.Reactive.Redux.IAction`2.Execute(`1)
+  name: Execute(TInput)
+  href: api/BlazorFocused.Reactive.Redux.IAction-2.html#BlazorFocused_Reactive_Redux_IAction_2_Execute__1_
+  commentId: M:BlazorFocused.Reactive.Redux.IAction`2.Execute(`1)
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState, TInput>.Execute(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState, TInput).Execute(TInput)
+  nameWithType: IAction<TState, TInput>.Execute(TInput)
+  nameWithType.vb: IAction(Of TState, TInput).Execute(TInput)
+- uid: BlazorFocused.Reactive.Redux.IAction`2.Execute*
+  name: Execute
+  href: api/BlazorFocused.Reactive.Redux.IAction-2.html#BlazorFocused_Reactive_Redux_IAction_2_Execute_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IAction`2.Execute
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IAction<TState, TInput>.Execute
+  fullName.vb: BlazorFocused.Reactive.Redux.IAction(Of TState, TInput).Execute
+  nameWithType: IAction<TState, TInput>.Execute
+  nameWithType.vb: IAction(Of TState, TInput).Execute
+- uid: BlazorFocused.Reactive.Redux.IReducer`2
+  name: IReducer<TInput, TOutput>
+  href: api/BlazorFocused.Reactive.Redux.IReducer-2.html
+  commentId: T:BlazorFocused.Reactive.Redux.IReducer`2
+  name.vb: IReducer(Of TInput, TOutput)
+  fullName: BlazorFocused.Reactive.Redux.IReducer<TInput, TOutput>
+  fullName.vb: BlazorFocused.Reactive.Redux.IReducer(Of TInput, TOutput)
+  nameWithType: IReducer<TInput, TOutput>
+  nameWithType.vb: IReducer(Of TInput, TOutput)
+- uid: BlazorFocused.Reactive.Redux.IReducer`2.Execute(`0)
+  name: Execute(TInput)
+  href: api/BlazorFocused.Reactive.Redux.IReducer-2.html#BlazorFocused_Reactive_Redux_IReducer_2_Execute__0_
+  commentId: M:BlazorFocused.Reactive.Redux.IReducer`2.Execute(`0)
+  fullName: BlazorFocused.Reactive.Redux.IReducer<TInput, TOutput>.Execute(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.IReducer(Of TInput, TOutput).Execute(TInput)
+  nameWithType: IReducer<TInput, TOutput>.Execute(TInput)
+  nameWithType.vb: IReducer(Of TInput, TOutput).Execute(TInput)
+- uid: BlazorFocused.Reactive.Redux.IReducer`2.Execute*
+  name: Execute
+  href: api/BlazorFocused.Reactive.Redux.IReducer-2.html#BlazorFocused_Reactive_Redux_IReducer_2_Execute_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IReducer`2.Execute
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IReducer<TInput, TOutput>.Execute
+  fullName.vb: BlazorFocused.Reactive.Redux.IReducer(Of TInput, TOutput).Execute
+  nameWithType: IReducer<TInput, TOutput>.Execute
+  nameWithType.vb: IReducer(Of TInput, TOutput).Execute
+- uid: BlazorFocused.Reactive.Redux.IStoreAction`1
+  name: IStoreAction<TState>
+  href: api/BlazorFocused.Reactive.Redux.IStoreAction-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.IStoreAction`1
+  name.vb: IStoreAction(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.IStoreAction<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.IStoreAction(Of TState)
+  nameWithType: IStoreAction<TState>
+  nameWithType.vb: IStoreAction(Of TState)
+- uid: BlazorFocused.Reactive.Redux.IStoreAction`1.State
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.IStoreAction-1.html#BlazorFocused_Reactive_Redux_IStoreAction_1_State
+  commentId: P:BlazorFocused.Reactive.Redux.IStoreAction`1.State
+  fullName: BlazorFocused.Reactive.Redux.IStoreAction<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.IStoreAction(Of TState).State
+  nameWithType: IStoreAction<TState>.State
+  nameWithType.vb: IStoreAction(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.IStoreAction`1.State*
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.IStoreAction-1.html#BlazorFocused_Reactive_Redux_IStoreAction_1_State_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStoreAction`1.State
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStoreAction<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.IStoreAction(Of TState).State
+  nameWithType: IStoreAction<TState>.State
+  nameWithType.vb: IStoreAction(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.IStore`1
+  name: IStore<TState>
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.IStore`1
+  name.vb: IStore(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState)
+  nameWithType: IStore<TState>
+  nameWithType.vb: IStore(Of TState)
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Dispatch*
+  name: Dispatch
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Dispatch_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.Dispatch
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Dispatch
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Dispatch
+  nameWithType: IStore<TState>.Dispatch
+  nameWithType.vb: IStore(Of TState).Dispatch
+- uid: BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync*
+  name: DispatchAsync
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_DispatchAsync_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.DispatchAsync
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).DispatchAsync
+  nameWithType: IStore<TState>.DispatchAsync
+  nameWithType.vb: IStore(Of TState).DispatchAsync
+- uid: BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync``1
+  name: DispatchAsync<TActionAsync>()
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_DispatchAsync__1
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync``1
+  name.vb: DispatchAsync(Of TActionAsync)()
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.DispatchAsync<TActionAsync>()
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).DispatchAsync(Of TActionAsync)()
+  nameWithType: IStore<TState>.DispatchAsync<TActionAsync>()
+  nameWithType.vb: IStore(Of TState).DispatchAsync(Of TActionAsync)()
+- uid: BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync``2(``1)
+  name: DispatchAsync<TActionAsync, TInput>(TInput)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_DispatchAsync__2___1_
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.DispatchAsync``2(``1)
+  name.vb: DispatchAsync(Of TActionAsync, TInput)(TInput)
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.DispatchAsync<TActionAsync, TInput>(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).DispatchAsync(Of TActionAsync, TInput)(TInput)
+  nameWithType: IStore<TState>.DispatchAsync<TActionAsync, TInput>(TInput)
+  nameWithType.vb: IStore(Of TState).DispatchAsync(Of TActionAsync, TInput)(TInput)
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Dispatch``1
+  name: Dispatch<TAction>()
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Dispatch__1
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.Dispatch``1
+  name.vb: Dispatch(Of TAction)()
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Dispatch<TAction>()
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Dispatch(Of TAction)()
+  nameWithType: IStore<TState>.Dispatch<TAction>()
+  nameWithType.vb: IStore(Of TState).Dispatch(Of TAction)()
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Dispatch``2(``1)
+  name: Dispatch<TAction, TInput>(TInput)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Dispatch__2___1_
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.Dispatch``2(``1)
+  name.vb: Dispatch(Of TAction, TInput)(TInput)
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Dispatch<TAction, TInput>(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Dispatch(Of TAction, TInput)(TInput)
+  nameWithType: IStore<TState>.Dispatch<TAction, TInput>(TInput)
+  nameWithType.vb: IStore(Of TState).Dispatch(Of TAction, TInput)(TInput)
+- uid: BlazorFocused.Reactive.Redux.IStore`1.GetState
+  name: GetState()
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_GetState
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.GetState
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.GetState()
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).GetState()
+  nameWithType: IStore<TState>.GetState()
+  nameWithType.vb: IStore(Of TState).GetState()
+- uid: BlazorFocused.Reactive.Redux.IStore`1.GetState*
+  name: GetState
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_GetState_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.GetState
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.GetState
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).GetState
+  nameWithType: IStore<TState>.GetState
+  nameWithType.vb: IStore(Of TState).GetState
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Reduce*
+  name: Reduce
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Reduce_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.Reduce
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Reduce
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Reduce
+  nameWithType: IStore<TState>.Reduce
+  nameWithType.vb: IStore(Of TState).Reduce
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Reduce``2(System.Action{``1})
+  name: Reduce<TReducer, TOutput>(Action<TOutput>)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Reduce__2_System_Action___1__
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.Reduce``2(System.Action{``1})
+  name.vb: Reduce(Of TReducer, TOutput)(Action(Of TOutput))
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Reduce<TReducer, TOutput>(System.Action<TOutput>)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Reduce(Of TReducer, TOutput)(System.Action(Of TOutput))
+  nameWithType: IStore<TState>.Reduce<TReducer, TOutput>(Action<TOutput>)
+  nameWithType.vb: IStore(Of TState).Reduce(Of TReducer, TOutput)(Action(Of TOutput))
+- uid: BlazorFocused.Reactive.Redux.IStore`1.SetState(System.Func{`0,`0})
+  name: SetState(Func<TState, TState>)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_SetState_System_Func__0__0__
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.SetState(System.Func{`0,`0})
+  name.vb: SetState(Func(Of TState, TState))
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.SetState(System.Func<TState, TState>)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).SetState(System.Func(Of TState, TState))
+  nameWithType: IStore<TState>.SetState(Func<TState, TState>)
+  nameWithType.vb: IStore(Of TState).SetState(Func(Of TState, TState))
+- uid: BlazorFocused.Reactive.Redux.IStore`1.SetState(`0)
+  name: SetState(TState)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_SetState__0_
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.SetState(`0)
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.SetState(TState)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).SetState(TState)
+  nameWithType: IStore<TState>.SetState(TState)
+  nameWithType.vb: IStore(Of TState).SetState(TState)
+- uid: BlazorFocused.Reactive.Redux.IStore`1.SetState*
+  name: SetState
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_SetState_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.SetState
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.SetState
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).SetState
+  nameWithType: IStore<TState>.SetState
+  nameWithType.vb: IStore(Of TState).SetState
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Subscribe(System.Action{`0})
+  name: Subscribe(Action<TState>)
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Subscribe_System_Action__0__
+  commentId: M:BlazorFocused.Reactive.Redux.IStore`1.Subscribe(System.Action{`0})
+  name.vb: Subscribe(Action(Of TState))
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Subscribe(System.Action<TState>)
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Subscribe(System.Action(Of TState))
+  nameWithType: IStore<TState>.Subscribe(Action<TState>)
+  nameWithType.vb: IStore(Of TState).Subscribe(Action(Of TState))
+- uid: BlazorFocused.Reactive.Redux.IStore`1.Subscribe*
+  name: Subscribe
+  href: api/BlazorFocused.Reactive.Redux.IStore-1.html#BlazorFocused_Reactive_Redux_IStore_1_Subscribe_
+  commentId: Overload:BlazorFocused.Reactive.Redux.IStore`1.Subscribe
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.IStore<TState>.Subscribe
+  fullName.vb: BlazorFocused.Reactive.Redux.IStore(Of TState).Subscribe
+  nameWithType: IStore<TState>.Subscribe
+  nameWithType.vb: IStore(Of TState).Subscribe
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`1
+  name: StoreActionAsync<TState>
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.StoreActionAsync`1
+  name.vb: StoreActionAsync(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState)
+  nameWithType: StoreActionAsync<TState>
+  nameWithType.vb: StoreActionAsync(Of TState)
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`1.ExecuteAsync
+  name: ExecuteAsync()
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html#BlazorFocused_Reactive_Redux_StoreActionAsync_1_ExecuteAsync
+  commentId: M:BlazorFocused.Reactive.Redux.StoreActionAsync`1.ExecuteAsync
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState>.ExecuteAsync()
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState).ExecuteAsync()
+  nameWithType: StoreActionAsync<TState>.ExecuteAsync()
+  nameWithType.vb: StoreActionAsync(Of TState).ExecuteAsync()
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`1.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html#BlazorFocused_Reactive_Redux_StoreActionAsync_1_ExecuteAsync_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreActionAsync`1.ExecuteAsync
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState>.ExecuteAsync
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState).ExecuteAsync
+  nameWithType: StoreActionAsync<TState>.ExecuteAsync
+  nameWithType.vb: StoreActionAsync(Of TState).ExecuteAsync
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`1.State
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html#BlazorFocused_Reactive_Redux_StoreActionAsync_1_State
+  commentId: P:BlazorFocused.Reactive.Redux.StoreActionAsync`1.State
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState).State
+  nameWithType: StoreActionAsync<TState>.State
+  nameWithType.vb: StoreActionAsync(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`1.State*
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html#BlazorFocused_Reactive_Redux_StoreActionAsync_1_State_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreActionAsync`1.State
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState).State
+  nameWithType: StoreActionAsync<TState>.State
+  nameWithType.vb: StoreActionAsync(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`2
+  name: StoreActionAsync<TState, TInput>
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html
+  commentId: T:BlazorFocused.Reactive.Redux.StoreActionAsync`2
+  name.vb: StoreActionAsync(Of TState, TInput)
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState, TInput>
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState, TInput)
+  nameWithType: StoreActionAsync<TState, TInput>
+  nameWithType.vb: StoreActionAsync(Of TState, TInput)
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`2.ExecuteAsync(`1)
+  name: ExecuteAsync(TInput)
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html#BlazorFocused_Reactive_Redux_StoreActionAsync_2_ExecuteAsync__1_
+  commentId: M:BlazorFocused.Reactive.Redux.StoreActionAsync`2.ExecuteAsync(`1)
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState, TInput>.ExecuteAsync(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState, TInput).ExecuteAsync(TInput)
+  nameWithType: StoreActionAsync<TState, TInput>.ExecuteAsync(TInput)
+  nameWithType.vb: StoreActionAsync(Of TState, TInput).ExecuteAsync(TInput)
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`2.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html#BlazorFocused_Reactive_Redux_StoreActionAsync_2_ExecuteAsync_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreActionAsync`2.ExecuteAsync
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState, TInput>.ExecuteAsync
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState, TInput).ExecuteAsync
+  nameWithType: StoreActionAsync<TState, TInput>.ExecuteAsync
+  nameWithType.vb: StoreActionAsync(Of TState, TInput).ExecuteAsync
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`2.State
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html#BlazorFocused_Reactive_Redux_StoreActionAsync_2_State
+  commentId: P:BlazorFocused.Reactive.Redux.StoreActionAsync`2.State
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState, TInput>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState, TInput).State
+  nameWithType: StoreActionAsync<TState, TInput>.State
+  nameWithType.vb: StoreActionAsync(Of TState, TInput).State
+- uid: BlazorFocused.Reactive.Redux.StoreActionAsync`2.State*
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html#BlazorFocused_Reactive_Redux_StoreActionAsync_2_State_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreActionAsync`2.State
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreActionAsync<TState, TInput>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreActionAsync(Of TState, TInput).State
+  nameWithType: StoreActionAsync<TState, TInput>.State
+  nameWithType.vb: StoreActionAsync(Of TState, TInput).State
+- uid: BlazorFocused.Reactive.Redux.StoreAction`1
+  name: StoreAction<TState>
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-1.html
+  commentId: T:BlazorFocused.Reactive.Redux.StoreAction`1
+  name.vb: StoreAction(Of TState)
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState>
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState)
+  nameWithType: StoreAction<TState>
+  nameWithType.vb: StoreAction(Of TState)
+- uid: BlazorFocused.Reactive.Redux.StoreAction`1.Execute
+  name: Execute()
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-1.html#BlazorFocused_Reactive_Redux_StoreAction_1_Execute
+  commentId: M:BlazorFocused.Reactive.Redux.StoreAction`1.Execute
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState>.Execute()
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState).Execute()
+  nameWithType: StoreAction<TState>.Execute()
+  nameWithType.vb: StoreAction(Of TState).Execute()
+- uid: BlazorFocused.Reactive.Redux.StoreAction`1.Execute*
+  name: Execute
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-1.html#BlazorFocused_Reactive_Redux_StoreAction_1_Execute_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreAction`1.Execute
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState>.Execute
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState).Execute
+  nameWithType: StoreAction<TState>.Execute
+  nameWithType.vb: StoreAction(Of TState).Execute
+- uid: BlazorFocused.Reactive.Redux.StoreAction`1.State
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-1.html#BlazorFocused_Reactive_Redux_StoreAction_1_State
+  commentId: P:BlazorFocused.Reactive.Redux.StoreAction`1.State
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState).State
+  nameWithType: StoreAction<TState>.State
+  nameWithType.vb: StoreAction(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.StoreAction`1.State*
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-1.html#BlazorFocused_Reactive_Redux_StoreAction_1_State_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreAction`1.State
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState).State
+  nameWithType: StoreAction<TState>.State
+  nameWithType.vb: StoreAction(Of TState).State
+- uid: BlazorFocused.Reactive.Redux.StoreAction`2
+  name: StoreAction<TState, TInput>
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-2.html
+  commentId: T:BlazorFocused.Reactive.Redux.StoreAction`2
+  name.vb: StoreAction(Of TState, TInput)
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState, TInput>
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState, TInput)
+  nameWithType: StoreAction<TState, TInput>
+  nameWithType.vb: StoreAction(Of TState, TInput)
+- uid: BlazorFocused.Reactive.Redux.StoreAction`2.Execute(`1)
+  name: Execute(TInput)
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-2.html#BlazorFocused_Reactive_Redux_StoreAction_2_Execute__1_
+  commentId: M:BlazorFocused.Reactive.Redux.StoreAction`2.Execute(`1)
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState, TInput>.Execute(TInput)
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState, TInput).Execute(TInput)
+  nameWithType: StoreAction<TState, TInput>.Execute(TInput)
+  nameWithType.vb: StoreAction(Of TState, TInput).Execute(TInput)
+- uid: BlazorFocused.Reactive.Redux.StoreAction`2.Execute*
+  name: Execute
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-2.html#BlazorFocused_Reactive_Redux_StoreAction_2_Execute_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreAction`2.Execute
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState, TInput>.Execute
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState, TInput).Execute
+  nameWithType: StoreAction<TState, TInput>.Execute
+  nameWithType.vb: StoreAction(Of TState, TInput).Execute
+- uid: BlazorFocused.Reactive.Redux.StoreAction`2.State
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-2.html#BlazorFocused_Reactive_Redux_StoreAction_2_State
+  commentId: P:BlazorFocused.Reactive.Redux.StoreAction`2.State
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState, TInput>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState, TInput).State
+  nameWithType: StoreAction<TState, TInput>.State
+  nameWithType.vb: StoreAction(Of TState, TInput).State
+- uid: BlazorFocused.Reactive.Redux.StoreAction`2.State*
+  name: State
+  href: api/BlazorFocused.Reactive.Redux.StoreAction-2.html#BlazorFocused_Reactive_Redux_StoreAction_2_State_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreAction`2.State
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreAction<TState, TInput>.State
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreAction(Of TState, TInput).State
+  nameWithType: StoreAction<TState, TInput>.State
+  nameWithType.vb: StoreAction(Of TState, TInput).State
+- uid: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions
+  name: StoreServiceCollectionExtensions
+  href: api/BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.html
+  commentId: T:BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions
+  fullName: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions
+  nameWithType: StoreServiceCollectionExtensions
+- uid: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore*
+  name: AddStore
+  href: api/BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.html#BlazorFocused_Reactive_Redux_StoreServiceCollectionExtensions_AddStore_
+  commentId: Overload:BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore
+  isSpec: "True"
+  fullName: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore
+  nameWithType: StoreServiceCollectionExtensions.AddStore
+- uid: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,``0)
+  name: AddStore<T>(IServiceCollection, T)
+  href: api/BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.html#BlazorFocused_Reactive_Redux_StoreServiceCollectionExtensions_AddStore__1_Microsoft_Extensions_DependencyInjection_IServiceCollection___0_
+  commentId: M:BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,``0)
+  name.vb: AddStore(Of T)(IServiceCollection, T)
+  fullName: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore<T>(Microsoft.Extensions.DependencyInjection.IServiceCollection, T)
+  fullName.vb: BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.AddStore(Of T)(Microsoft.Extensions.DependencyInjection.IServiceCollection, T)
+  nameWithType: StoreServiceCollectionExtensions.AddStore<T>(IServiceCollection, T)
+  nameWithType.vb: StoreServiceCollectionExtensions.AddStore(Of T)(IServiceCollection, T)
+- uid: api/index
+  name: API
+  href: api/index.html
+- uid: guides/index
+  name: Guides
+  href: guides/index.html
+- uid: guides/redux/index
+  name: BlazorFocused.Reactive.Redux
+  href: guides/redux/index.html
+- uid: home
+  name: Home
+  href: index.html

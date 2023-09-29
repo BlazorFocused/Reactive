@@ -1,0 +1,223 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/Reactive/Reactive/Documentation/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IAction-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IAction-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IActionAsync-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IActionAsync-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IActionAsync-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IActionAsync-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IReducer-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IReducer-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IStore-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IStore-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.IStoreAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.IStoreAction-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.StoreAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.StoreAction-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.StoreAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.StoreAction-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.StoreActionAsync-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.StoreActionAsync-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.StoreServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlazorFocused.Reactive.Redux.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlazorFocused.Reactive.Redux.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/redux/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/redux/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "guides/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/BlazorFocused.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/BlazorFocused.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
