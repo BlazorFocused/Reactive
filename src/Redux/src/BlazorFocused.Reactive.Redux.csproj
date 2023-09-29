@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
+  </PropertyGroup>
+
+  <PropertyGroup Label="NuGet Metadata">
+    <Title>BlazorFocused.Reactive.Redux</Title>
+    <PackageId>BlazorFocused.Reactive.Redux</PackageId>
+    <PackageTags>dotnet;c-sharp;flux;redux;reactive;data-store</PackageTags>
+    <Description>Provides one single source of updating and retrieving a data store throughout entire application</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
+    <PackageReference Include="Microsoft.Extensions.Logging" />
+    <PackageReference Include="System.Reactive" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
+      <_Parameter1>
+        $(AssemblyName).Test, PublicKey=0024000004800000940000000602000000240000525341310004000001000100e97ca3174dccb4c59f63f191af20d754ef086c88ebab5958617b192b9196aaf2d5cc34e1b9c67b5620d94d33b101b6c8cbca4f236ffe5284959290736704d0fcbd992f104fb210c2d232bbb913160d4d33070168708c6f938b76159bb16cd28757a1529f01eb15c32047a8404be29902c6f9d782b8bb25f33f3ff5c8b7dc46a0
+      </_Parameter1>
+    </AssemblyAttribute>
+  </ItemGroup>
+
+</Project>

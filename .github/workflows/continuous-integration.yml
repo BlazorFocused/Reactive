@@ -1,0 +1,46 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "docs/**"
+      - "**/README.md"
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - "docs/**"
+      - "**/README.md"
+  release:
+    types:
+      - published
+
+jobs:
+  build-redux:
+    uses: ./.github/workflows/template-build-test-project.yml
+    with:
+      name: "BlazorFocused.Reactive.Redux Build"
+      source-directory: ./src/Redux/src
+      source-project: BlazorFocused.Reactive.Redux.csproj
+      test-directory: ./src/Redux/test
+      test-project: BlazorFocused.Reactive.Redux.Test.csproj
+
+  build-samples:
+    uses: ./.github/workflows/template-build-test-solution.yml
+    with:
+      name: "BlazorFocused.Reactive.Samples Build"
+      working-directory: ./samples
+
+  release-redux:
+    needs: [build-redux, build-samples]
+    if: github.event_name == 'release'
+    uses: ./.github/workflows/template-release-nuget-package.yml
+    with:
+      name: "BlazorFocused.Reactive.Redux Release"
+      source-project-path: ./Redux/src/BlazorFocused.Reactive.Redux.csproj
+      source-release-path: ./Redux/src/bin/Release
+      working-directory: ./src
+      version: ${{ github.event.release.tag_name }}
+    secrets: inherit

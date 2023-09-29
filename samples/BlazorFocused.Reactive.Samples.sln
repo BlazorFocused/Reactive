@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReduxSample.Api", "ReduxSample\ReduxSample.Api\ReduxSample.Api.csproj", "{792861E0-EDAE-403A-8DED-7FF4814EACFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Configuration", "_Configuration", "{CCDD344A-D4D3-4C5F-B9BA-8E7932CF37D9}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.targets = Directory.Build.targets
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduxSample.BlazorWebAssembly", "ReduxSample\ReduxSample.BlazorWebAssembly\ReduxSample.BlazorWebAssembly.csproj", "{4DC0A935-F416-4DF4-8BC8-A22DB0D44432}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ED66F454-D002-4055-9EFE-D6D504046325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorFocused.Reactive.Redux", "..\src\Redux\src\BlazorFocused.Reactive.Redux.csproj", "{3D3DB599-EE2C-42C2-9181-521F4D61CD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792861E0-EDAE-403A-8DED-7FF4814EACFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792861E0-EDAE-403A-8DED-7FF4814EACFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792861E0-EDAE-403A-8DED-7FF4814EACFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792861E0-EDAE-403A-8DED-7FF4814EACFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC0A935-F416-4DF4-8BC8-A22DB0D44432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC0A935-F416-4DF4-8BC8-A22DB0D44432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC0A935-F416-4DF4-8BC8-A22DB0D44432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC0A935-F416-4DF4-8BC8-A22DB0D44432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3DB599-EE2C-42C2-9181-521F4D61CD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3DB599-EE2C-42C2-9181-521F4D61CD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3DB599-EE2C-42C2-9181-521F4D61CD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3DB599-EE2C-42C2-9181-521F4D61CD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D3DB599-EE2C-42C2-9181-521F4D61CD06} = {ED66F454-D002-4055-9EFE-D6D504046325}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A52089-33A6-40DA-89B1-FE2A7F454E12}
+	EndGlobalSection
+EndGlobal
